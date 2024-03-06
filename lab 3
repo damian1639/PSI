@@ -1,0 +1,74 @@
+wymagania funkcjonalne: SI ----- FUNKCJE ----- DPU(diagram przypadkow uzycia)
+wymagania funkcjonalne: SI ----- DANE ----- DIAGRAM KLAS
+SI ----- WYMAGANIA NIEFUNKCJONALNE
+Zadanie
+Kto pracuje w Dziale Informatyki?
+
+1. 
+W Dziale Informatyki pracują specjaliści techniczni odpowiedzialni za obsługę techniczną sprzętu komputerowego i oprogramowania.
+
+Funkcje wykonywane w Dziale Informatyki obejmują:
+Weryfikację zgłoszeń technicznych.
+Przydzielenie zgłoszeń odpowiednim specjalistom w terenie.
+Monitorowanie stanu zgłoszeń.
+Realizację napraw i sprawdzanie ich poprawności.
+Zamknięcie zgłoszeń po wykonaniu naprawy.
+Jacy pracownicy wykonują te funkcje?
+
+Pracownicy Działu Informatyki wykonują wymienione funkcje.
+
+2.
+Przyjmowanie zgłoszeń technicznych.
+Weryfikacja zgłoszeń.
+Przydział zgłoszeń do odpowiednich specjalistów.
+Realizacja napraw i sprawdzanie poprawności działań.
+Zamknięcie zgłoszeń.
+
+3.
+Pracownik biblioteki
+Szef działu informatyki
+Specjaliści techniczni
+
+4.
+Przyjmowanie zgłoszenia technicznego.
+Weryfikacja zgłoszenia.
+Przydział zgłoszenia do specjalisty.
+Realizacja naprawy.
+Sprawdzenie poprawności naprawy.
+Zamknięcie zgłoszenia.
+
+5.
+Zgłoszenie techniczne
+Specjalista techniczny
+Stan zgłoszenia
+Formularz zgłoszeniowy
+Sprzęt komputerowy
+Oprogramowanie
+Naprawa
+Lista przydzielonych zgłoszeń
+
+6.
+Przyjmowanie zgłoszenia technicznego:
+
+Aktor: Pracownik biblioteki
+Opis: Pracownik biblioteki wypełnia formularz zgłoszeniowy, opisując problem z sprzętem lub oprogramowaniem.
+Weryfikacja zgłoszenia:
+
+Aktor: Szef działu informatyki
+Opis: Szef działu informatyki weryfikuje zgłoszenie techniczne, oceniając jego pilność i złożoność.
+Przydział zgłoszenia do specjalisty:
+
+Aktor: Szef działu informatyki
+Opis: Szef działu informatyki przydziela zgłoszenie odpowiedniemu specjaliście technicznemu, uwzględniając jego dostępność i obszar kompetencji.
+Realizacja naprawy:
+
+Aktor: Specjalista techniczny
+Opis: Specjalista techniczny przeprowadza naprawę sprzętu lub oprogramowania zgodnie z opisem zgłoszenia.
+Sprawdzenie poprawności naprawy:
+
+Aktor: Specjalista techniczny
+Opis: Specjalista techniczny sprawdza poprawność przeprowadzonej naprawy oraz funkcjonowanie sprzętu lub oprogramowania.
+Zamknięcie zgłoszenia:
+
+Aktor: Osoba uprawniona
+Opis: Osoba uprawniona, najczęściej specjalista techniczny, zamknęła zgłoszenie po pomyślnym zakończeniu naprawy i potwierdzeniu przez użytkownika końcowego.
